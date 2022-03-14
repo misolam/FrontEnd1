@@ -1,1 +1,22 @@
-.title {color: red;}
+.principal {
+    text-align:left;}
+.titulo {
+  font-family: sans-serif;
+  font-size: 45px;
+  font-weight: lighter;
+  line-height: 1px;
+}
+.menu {
+
+  color: rgba(255, 255, 255, 1);
+  background-color: black;
+}
+
+.tema {
+  color: rgba(255, 0, 0, 1);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+.fecha {
+  color: rgba(130, 130, 130, 1);
+}
