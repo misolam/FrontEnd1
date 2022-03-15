@@ -1,0 +1,36 @@
+header {background-color:#E6E6E6;ç
+text-align: center;}
+
+.fotocv {align-items: center;}
+
+h1 {background-color:#C4C4C4; 
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    text-align: center;    
+    color: #005677;
+}
+
+h2 {background-color:#C4C4C4 ;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    /* identical to box height, or 17px */
+    
+    font-feature-settings: 'cpsp' on;
+    
+    color: #005677;}
+
+footer {background-color: #005677;
+    color: #FFFFFF;
+text-align: center;
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;}
