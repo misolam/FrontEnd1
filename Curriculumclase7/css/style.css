@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Hubballi&family=Lato:wght@300&display=swap');
+
+body {
+     font-family: 'Cormorant Garamond', serif;
+font-family: 'Hubballi', cursive;
+font-family: 'Lato', sans-serif;
+color: rgba(38, 38, 99, 0.925);
+line-height: 40px;
+}
+
+main {background-image: url(https://media.istockphoto.com/vectors/light-grey-and-white-coloured-grunge-effect-empty-background-vector-id1220401373?b=1&k=20&m=1220401373&s=612x612&w=0&h=gMCj7IBoPV5TT3AjO0Wu9N-wCwfZOsB0NGYojh_4Pl0=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}     
+
+.cabecera {
+    height: 100px;
+    width: 100%;
+    opacity: 1;
+    background-image: url(../img/logo\ batman.png), url(https://media.istockphoto.com/vectors/light-grey-and-white-coloured-grunge-effect-empty-background-vector-id1220401373?b=1&k=20&m=1220401373&s=612x612&w=0&h=gMCj7IBoPV5TT3AjO0Wu9N-wCwfZOsB0NGYojh_4Pl0=) ;
+    background-repeat: no-repeat;
+    background-size: contain, cover;
+    background-position: center, left;
+    
+}
+
+
+
+h1 {text-align: center
+    ;}
+
+.piepag {
+    font-weight: bold;
+    background-image: url(https://media.istockphoto.com/vectors/light-grey-and-white-coloured-grunge-effect-empty-background-vector-id1220401373?b=1&k=20&m=1220401373&s=612x612&w=0&h=gMCj7IBoPV5TT3AjO0Wu9N-wCwfZOsB0NGYojh_4Pl0=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    text-align: center;}
+
+
+
+
