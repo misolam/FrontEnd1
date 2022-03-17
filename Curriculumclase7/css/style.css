@@ -9,6 +9,11 @@ color: rgba(38, 38, 99, 0.925);
 line-height: 40px;
 }
 
+body.sobremi {background-image: url(https://media.istockphoto.com/vectors/light-grey-and-white-coloured-grunge-effect-empty-background-vector-id1220401373?b=1&k=20&m=1220401373&s=612x612&w=0&h=gMCj7IBoPV5TT3AjO0Wu9N-wCwfZOsB0NGYojh_4Pl0=);
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+
 main {background-image: url(https://media.istockphoto.com/vectors/light-grey-and-white-coloured-grunge-effect-empty-background-vector-id1220401373?b=1&k=20&m=1220401373&s=612x612&w=0&h=gMCj7IBoPV5TT3AjO0Wu9N-wCwfZOsB0NGYojh_4Pl0=);
     background-repeat: no-repeat;
     background-size: cover;
