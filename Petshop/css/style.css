@@ -1,0 +1,83 @@
+.encabezado {
+         height: 60px;
+        width: 100%;
+        opacity: 1; 
+        background-image: url(../img/logo.png);
+        background-color: #F0A83E ;
+        background-position: left;
+        background-repeat: no-repeat;
+        
+}
+
+.menu {color: white;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:right;
+}
+
+.top {height: 700px;
+    width: 100%;
+background-image: url(../img/bowl.png);
+background-repeat: no-repeat;
+background-position: top;
+background-size: cover;
+
+}
+
+span.titulo {
+background-color: white;
+font-size: 30px;
+font-weight: 400px;
+text-align: right;
+line-height: 35px;
+
+}
+.mid {
+    height: 1500px;
+    background-image: url(../img/huella.png), url(../img/churrasquito.png), url(../img/plato.png), url(../img/huesito.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: 900px 50px, 400px 500px, 800px 500px, 1200px 500px;
+    
+
+}
+
+.titular {
+    color: #3C2313;
+    ;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    line-height: 47px;
+    font-weight: 700px;
+}
+
+.menucentral {
+    color: #3C2313;
+    font-size: 25px;
+    font-weight: 700px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.bot {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: 700px;
+    text-align: center;
+}
+
+.productos {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700px;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+
+
+.registro   {
+background-color: #3C2313;
+color: white;
+
+}
