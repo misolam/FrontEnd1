@@ -1,3 +1,6 @@
+@import url(https://use.fontawesome.com/releases/v6.1.0/css/all.css);
+
+
 .encabezado {
          height: 60px;
         width: 100%;
@@ -79,5 +82,17 @@ line-height: 35px;
 .registro   {
 background-color: #3C2313;
 color: white;
+
+}
+
+footer {
+
+    background-image: url(../img/logo.png);
+    background-position: right;
+        background-repeat: no-repeat;
+        background-color: #3C2313;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
 
 }
