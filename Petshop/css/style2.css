@@ -1,0 +1,111 @@
+@import url(https://use.fontawesome.com/releases/v6.1.0/css/all.css);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap);
+
+* {font-family: 'Roboto', sans-serif;}
+
+
+.superior {
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+}
+
+
+.inferior {
+    height: 100px;
+    width: 100%;
+    background-color: #F0A83E;
+    background-image: url(../img/Logo.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: right;
+
+}
+
+
+
+
+h1 {
+  background-color: white;
+  color: #3C2313;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+   
+}
+
+
+.boton {
+    background-color: #F0A83E;
+    color: white;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+
+}
+
+.imagen {
+    height: 800px;
+    width: 100%;
+background-image: url(../img/bowl.png);
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+
+}
+
+.productos {
+    height: 600px;
+    width: 100%;
+
+}
+
+.huella {
+    text-align: center;
+
+}
+
+h2 {
+    color:#3C2313;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+
+}
+
+.destacados {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+}
+
+.formulario {
+    text-align: center;
+}
+.registro {
+    background-color: #3C2313;
+color: white;
+}
+
+.pie {
+    height: 500px;
+    width: 100%;
+    background-color: #3C2313;
+    background-image: url(../img/Logo.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: left bottom;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+line-height: 23px;
+    
+}

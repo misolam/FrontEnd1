@@ -27,11 +27,11 @@ background-size: cover;
 
 }
 
-span.titulo {
-background-color: white;
-font-size: 30px;
+p.titulo {
+
+font-size: 50px;
 font-weight: 400px;
-text-align: right;
+text-align: center;
 line-height: 35px;
 
 }
