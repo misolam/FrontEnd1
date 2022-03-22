@@ -204,5 +204,10 @@ color: white;
 text-align: center;
 }
 
-
+.derechos {
+    width: 500px;
+    position: relative;
+    top: 15px;
+    left: 2px;
+}
 
