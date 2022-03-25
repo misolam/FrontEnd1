@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.encabezado {
+  align-items: center;
+  background-color: #222222;
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+}
+.navbar {
+  display: flex;
+  margin-right: 15px;
+}
+.principal {
+  align-items: center;
+  background-color: #e5e5e5;
+  display: flex;
+  height: 500px;
+  justify-content: center;
+}
+.seccion1 {
+  background-image: url(../img/delivery.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  height: 350px;
+  margin-right: 30px;
+  width: 490px;
+}
+
+.seccion2 {
+  background-color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+  height: 350px;
+  margin-left: 30px;
+  justify-content: space-around;
+  width: 490px;
+}
+
+.texto1 {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+.enviogratis {
+  color: #fc200c;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+}
+.comprando {
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  margin: 0 7px 0;
+  order: 1;
+}
+.dospizzas {
+  color: #fc200c;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  order: 2;
+}
+.pie {
+  align-items: center;
+  background-color: #222222;
+  display: flex;
+  font-size: 16px;
+  height: 150px;
+  justify-content: space-between;
+  margin: 0px;
+}
+.fila {
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 35px;
+  margin-left: 10px;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.texto {
+  color: #fc200c;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  margin-top: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.lista {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.top5 {
+  bottom: 25px;
+  position: relative;
+}
+.logo {
+  margin-left: 10px;
+}
+.logo2 {
+  margin-right: 50px;
+}
